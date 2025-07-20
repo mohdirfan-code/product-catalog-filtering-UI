@@ -36,10 +36,10 @@ This application is packed with features that allow for powerful and intuitive p
 ---
 
 ## screenshots
-![image](https://github.com/mohdirfan-code/product-catalog-filtering-UI/assets/121735252/7841961e-1f7c-474c-8f92-5633b4999f8d)
-![image](https://github.com/mohdirfan-code/product-catalog-filtering-UI/assets/121735252/4c44243b-488b-40f0-a7d0-128c707d81e1)
-
-
+<img width="792" height="1008" alt="Image" src="https://github.com/user-attachments/assets/935c309f-555a-48ad-be3d-db4154422fad" />
+<img width="792" height="1008" alt="Image" src="https://github.com/user-attachments/assets/ad88e80d-fa75-4647-b306-5968c8be9d91" />
+<img width="792" height="1008" alt="Image" src="https://github.com/user-attachments/assets/93fb5fcc-b901-4473-9886-f98b8a404091" />
+<img width="792" height="1008" alt="Image" src="https://github.com/user-attachments/assets/a36c0aeb-a12a-4c2a-bffe-6267c84bbc57" />
 ---
 
 ## ⚙️ How to Run Locally
